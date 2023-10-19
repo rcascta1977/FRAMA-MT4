@@ -14,5 +14,8 @@ Pueden encontrar instrucciones más detalladas sobre la instalación y uso de es
 
 <h2>Mejoras planeadas</h2>
 Las mejoras planeadas para este indicador incluyen:
--Señales de cruces del precio con la FRAMA.
--Cambio de color cuando la FRAMA presenta una tendencia alcista o bajista.
+<ul>
+  <li>Señales de cruces del precio con la FRAMA.</li>
+  <li>Cambio de color cuando la FRAMA presenta una tendencia alcista o bajista.</li>
+  <li>Un tablero de señales para múltiples instrumentos y marcos de tiempo.</li>
+</ul>
