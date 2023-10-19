@@ -8,7 +8,7 @@ Esa media móvil aprovecha la naturaleza fractal de los movimientos del mercado.
 
 En este indicador el usuario puede seleccionar el periodo de cálculo de la media móvil (el valor por defecto es 10 periodos) y el tipo de precio (el valor por defecto es Close o precio de cierre).
 
-
+![media-movil-frama](https://github.com/rcascta1977/FRAMA-MT4/assets/41598217/6497d409-ec0e-4279-adb1-2db97af3fa1d)
 
 Pueden encontrar instrucciones más detalladas sobre la instalación y uso de este indicador en: https://www.tecnicasdetrading.com/2019/08/media-movil-frama-para-metatrader.html
 
